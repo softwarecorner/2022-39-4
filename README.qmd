@@ -1,6 +1,5 @@
 ---
 title: "Getting the most out of your experimental data with design"
-
 format: gfm
 bibliography: ref.bib
 ---
