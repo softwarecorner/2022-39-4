@@ -7,8 +7,8 @@ Department of Econometrics and Business Statistics
 
 Monash University
 
-Editor note: This article was originally published in the Biometric
-Bulletin (2022) Volume 39 Issue.
+*Editor note: This article was originally published in the Biometric
+Bulletin (2022) Volume 39 Issue.*
 
 ## Introduction
 
