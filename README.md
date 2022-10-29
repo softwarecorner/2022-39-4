@@ -1,7 +1,14 @@
 Getting the most out of your experimental data with design
 ================
+
 Emi Tanaka
-10/23/2022
+
+Department of Econometrics and Business Statistics
+
+Monash University
+
+Editor note: This article was originally published in the Biometric
+Bulletin (2022) Volume 39 Issue.
 
 ## Introduction
 
